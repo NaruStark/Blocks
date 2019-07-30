@@ -6330,6 +6330,16 @@ PrefabInstance:
       propertyPath: m_isInputParsingRequired
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 815776643142800027, guid: 2999719936b6a1f4289cb1a13f1051c1,
+        type: 3}
+      propertyPath: gameSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 815776641750029272, guid: 2999719936b6a1f4289cb1a13f1051c1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2999719936b6a1f4289cb1a13f1051c1, type: 3}
 --- !u!1001 &3298316439901178947
