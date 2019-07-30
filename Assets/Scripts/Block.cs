@@ -20,7 +20,7 @@ public class Block : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(gamestatus == null) { gamestatus = FindObjectOfType<GameStatus>(); }
+        
         DestroyBlock();
     }
 

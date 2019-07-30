@@ -6330,11 +6330,6 @@ PrefabInstance:
       propertyPath: m_isInputParsingRequired
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 815776643142800027, guid: 2999719936b6a1f4289cb1a13f1051c1,
-        type: 3}
-      propertyPath: gameSpeed
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 815776641750029272, guid: 2999719936b6a1f4289cb1a13f1051c1,
         type: 3}
       propertyPath: m_LocalPosition.z
