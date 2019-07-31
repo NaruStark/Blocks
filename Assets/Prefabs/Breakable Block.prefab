@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5620255298035591229}
   m_Layer: 0
   m_Name: Block
-  m_TagString: Untagged
+  m_TagString: Breakable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -94,6 +94,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroySound: {fileID: 8300000, guid: 19afdddd04b8c8942beff0053df6f3cf, type: 3}
+  blockSparklesVFX: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
 --- !u!61 &5620255298035591229
 BoxCollider2D:
   m_ObjectHideFlags: 0
